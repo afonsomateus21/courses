@@ -1,0 +1,26 @@
+.topBar {
+    background-color: #274472;
+    height: 6.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo {
+    font-size: 2.5rem;
+    color: #fff;
+    padding: 20px;
+}
+
+.containerBotao {
+    width: 50px;
+}
+
+.botaoVoltar {
+    color: #fff;
+    font-size: 1.8rem;
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+}
